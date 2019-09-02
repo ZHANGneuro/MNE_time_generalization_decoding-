@@ -9,5 +9,9 @@ I made this script to make it clear how sklearn functions (make_pipeline, Strati
 ![alt tag](https://github.com/ZHANGneuro/MNE_time_generalization_decoding-/blob/master/tg_result_example.png)
 <br /><br />
 
+The original dataset and method are from the references below:
+
+King & Dehaene (2014) ‘Characterizing the dynamics of mental representations: the Temporal Generalization method’, Trends In Cognitive Sciences, 18(4), 203-210. doi: 10.1016/j.tics.2014.01.002.
+
 bo <br />
 2019-09-02
